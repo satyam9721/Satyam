@@ -38,26 +38,19 @@
 
 <p align="left">
     <!-- Python -->
-    <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="animation: bounce 2s infinite" />
+    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
     <!-- AWS -->
-    <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="animation: bounce 2s infinite 0.2s" />
+    <img title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
     <!-- Git -->
-    <img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="animation: bounce 2s infinite 0.4s" />
+    <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
     <!-- Docker -->
-    <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="40" style="animation: bounce 2s infinite 0.6s" />
+    <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
     <!-- Kubernetes -->
-    <img title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" style="animation: bounce 2s infinite 0.8s" />
+    <img title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
     <!-- Azure DevOps -->
-    <img title="Azure DevOps" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" style="animation: bounce 2s infinite 1s" />
-    <!-- CI/CD Pipeline -->
-    <img title="CI/CD Pipeline" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" width="40" height="40" style="animation: bounce 2s infinite 1.2s" />
-    
-    <style>
-        @keyframes bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
-        }
-    </style>
+    <img title="Azure DevOps" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />
+    <!-- GitHub Actions (CI/CD) -->
+    <img title="CI/CD Pipeline" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
 </p>
 
 #  Connect with me  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">

@@ -23,16 +23,13 @@
 	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
 </p>
-<p align="center">
-  <a href="https://www.youtube.com/@YourChannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
-  </a>
-</p>
 
 #  Connect with me  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
+### 🔧 Tech Stack
 
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
 

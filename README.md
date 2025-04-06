@@ -37,9 +37,27 @@
 ### My skills include
 
 <p align="left">
-	<img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
-	<img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
-	<img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
+    <!-- Python -->
+    <img title="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="animation: bounce 2s infinite" />
+    <!-- AWS -->
+    <img title="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="animation: bounce 2s infinite 0.2s" />
+    <!-- Git -->
+    <img title="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="animation: bounce 2s infinite 0.4s" />
+    <!-- Docker -->
+    <img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="40" style="animation: bounce 2s infinite 0.6s" />
+    <!-- Kubernetes -->
+    <img title="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" style="animation: bounce 2s infinite 0.8s" />
+    <!-- Azure DevOps -->
+    <img title="Azure DevOps" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" style="animation: bounce 2s infinite 1s" />
+    <!-- CI/CD Pipeline -->
+    <img title="CI/CD Pipeline" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg" width="40" height="40" style="animation: bounce 2s infinite 1.2s" />
+    
+    <style>
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+    </style>
 </p>
 
 #  Connect with me  <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">

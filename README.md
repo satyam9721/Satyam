@@ -1,5 +1,5 @@
 ###  Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+<img src="https://komarev.com/ghpvc/?username=satyam9721" alt="satyam9721" />
 <div align="center">
 
   ### Welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">

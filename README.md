@@ -33,7 +33,5 @@
 </div>
 # Connect with me
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
-
 
 

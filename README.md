@@ -7,8 +7,7 @@
 </div>  
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-### Hello World, I'm Satyam Gupta (Techy Satyam)
-<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
+
 
 <div>
   <h3> 💻 Languages and Tools </h3>

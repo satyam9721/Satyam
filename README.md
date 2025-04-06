@@ -9,7 +9,7 @@
 
   <!-- Animated Intro Line -->
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&multiline=true&width=800&lines=%F0%9F%9A%80+SDE-2+%7C+Backend+Specialist+%7C+Ex-Jio;Building+scalable+systems+%7C+Writing+clean+code+%7C+Solving+real-world+problems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&lines=%F0%9F%9A%80+SDE-2+%7C+Backend+Specialist+%7C+Ex-Jio;Building+scalable+systems+%7C+Writing+clean+code+%7C+Solving+real-world+problems" alt="Typing SVG" />
 
 
 
